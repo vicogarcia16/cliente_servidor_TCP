@@ -25,4 +25,13 @@
 
 #### Pruebas manuales
 
+* Conexion cliente - servidor
+  ![cliente-servidor](https://github.com/vicogarcia16/cliente_servidor_TCP/blob/main/pruebas/1.JPG)
+* Envio de mensaje del cliente y respuesta del servidor en mayusculas
+  ![cliente-servidor-msj](https://github.com/vicogarcia16/cliente_servidor_TCP/blob/main/pruebas/2.JPG)
+* Cliente se desconecta del servidor con el mensaje DESCONEXION
+  ![cliente-servidor-desconectar](https://github.com/vicogarcia16/cliente_servidor_TCP/blob/main/pruebas/3.JPG)
+* Servidor queda en espera de nuevos clientes o se cierra por inactividad
+* ![cliente-servidor-espera](https://github.com/vicogarcia16/cliente_servidor_TCP/blob/main/pruebas/4.JPG)
+
 
